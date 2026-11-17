@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gestione catalogo — Smart Cucine</title>
+<meta name="description" content="Area riservata.">
+<meta name="robots" content="noindex,nofollow">
+<meta property="og:title" content="Gestione catalogo — Smart Cucine">
+<meta property="og:description" content="Area riservata.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="it_IT">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+
+<main>
+
+<div class="adm">
+  <div id="login" class="adm-login">
+    <h1>Area riservata</h1>
+    <p>Gestione del catalogo di Smart Cucine.</p>
+    <form id="flogin">
+      <div><label for="pw">Password</label>
+      <input id="pw" type="password" autocomplete="current-password" required></div>
+      <button type="submit">Entra</button>
+      <div class="err" id="errl"></div>
+    </form>
+  </div>
+
+  <div id="app" style="display:none">
+    <div class="admbar">
+      <div class="t">Smart Cucine<small>Gestione catalogo</small></div>
+      <nav>
+        <button id="nuovo" class="pri">+ Nuovo prodotto</button>
+        <button id="esporta">Esporta catalogo</button>
+        <button id="importa">Importa</button>
+        <button id="ripristina">Ripristina originale</button>
+        <a class="b" href="negozio.html" target="_blank" rel="noopener"
+           style="text-decoration:none">Vedi il negozio</a>
+        <button id="esci">Esci</button>
+      </nav>
+    </div>
+    <input type="file" id="file" accept=".js,.json" style="display:none">
+    <div class="admwrap">
+      <div class="kpi" id="kpi"></div>
+      <div style="margin-bottom:18px">
+        <input id="cerca" placeholder="Cerca per nome, codice o categoria…"
+               style="max-width:420px">
+      </div>
+      <div class="tbl">
+        <table>
+          <thead><tr><th></th><th>Prodotto</th><th>Categoria</th><th>Prezzo</th>
+          <th>Q.tà</th><th>Stato</th><th></th></tr></thead>
+          <tbody id="corpo"></tbody>
+        </table>
+      </div>
+      <p class="hint" style="margin-top:26px">
+        Le modifiche restano su questo browser finché non premi
+        <strong>Esporta catalogo</strong>: il file <code>catalogo.js</code> che
+        viene scaricato va caricato sull'hosting al posto di quello esistente.
+        Solo allora i clienti vedono le modifiche.</p>
+    </div>
+  </div>
+
+  <div class="modale" id="modale"><div class="box">
+    <h2 id="mtit">Prodotto</h2>
+    <form id="fprod">
+      <div class="f2">
+        <div><label for="n1">Nome *</label><input id="n1" name="nome" required></div>
+        <div><label for="c1">Categoria</label>
+          <select id="c1" name="categoria">
+            <option>Promozioni</option><option>Cucine moderne</option>
+            <option>Cucine classiche</option><option>Elettrodomestici</option>
+            <option>Accessori</option>
+          </select></div>
+      </div>
+      <div class="f2">
+        <div><label for="s1">Codice / SKU</label><input id="s1" name="sku"></div>
+        <div><label for="m1">Misure</label><input id="m1" name="misure"
+             placeholder="cm 360 · h 216"></div>
+      </div>
+      <div class="f2">
+        <div><label for="p1">Prezzo di vendita (€)</label>
+          <input id="p1" name="prezzo" type="number" step="0.01" min="0"
+                 placeholder="0 = su preventivo"></div>
+        <div><label for="l1">Prezzo di listino barrato (€)</label>
+          <input id="l1" name="listino" type="number" step="0.01" min="0"></div>
+      </div>
+      <div class="f2">
+        <div><label for="q1">Quantità disponibile</label>
+          <input id="q1" name="stock" type="number" step="1" min="0"></div>
+        <div><label for="i1">Immagine (URL)</label><input id="i1" name="immagine"></div>
+      </div>
+      <div id="prev"></div>
+      <div><label for="b1">Descrizione breve</label><input id="b1" name="breve"></div>
+      <div><label for="d1">Descrizione completa</label>
+        <textarea id="d1" name="descrizione"></textarea></div>
+      <div><label for="o1">Dotazione / finiture — una per riga</label>
+        <textarea id="o1" name="dotazione" style="min-height:110px"></textarea></div>
+      <div><label for="st1">Link di pagamento Stripe</label>
+        <input id="st1" name="stripe" placeholder="https://buy.stripe.com/…">
+        <p class="hint">Crealo dal cruscotto Stripe (Link di pagamento) e incollalo
+        qui: sulla scheda comparirà il pulsante per pagare con carta.</p></div>
+      <div style="display:flex;gap:28px;flex-wrap:wrap;margin-top:6px">
+        <label class="chk" style="margin:0"><input type="checkbox" name="attivo">
+          <span style="font-size:13px;color:var(--muted)">Pubblicato sul sito</span></label>
+        <label class="chk" style="margin:0"><input type="checkbox" name="evidenza">
+          <span style="font-size:13px;color:var(--muted)">In evidenza</span></label>
+        <label class="chk" style="margin:0"><input type="checkbox" name="paypal">
+          <span style="font-size:13px;color:var(--muted)">Acquistabile con PayPal</span></label>
+      </div>
+      <div style="display:flex;gap:12px;margin-top:12px">
+        <button type="submit">Salva prodotto</button>
+        <button type="button" id="chiudi" class="btn dark"
+                style="background:none;color:var(--ink)">Annulla</button>
+      </div>
+    </form>
+  </div></div>
+</div>
+
+</main>
+
+
+<script src="catalogo.js"></script><script>window.ADMIN_PW="smartcucine2026";</script><script src="admin.js"></script>
+</body>
+</html>

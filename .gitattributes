@@ -1,0 +1,13 @@
+# Normalizza i fine riga: niente piu' avvisi LF/CRLF
+* text=auto eol=lf
+
+# I file batch devono restare in formato Windows
+*.bat text eol=crlf
+
+# Binari: non toccare
+*.webp binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.pdf  binary
+*.ico  binary

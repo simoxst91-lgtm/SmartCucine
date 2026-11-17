@@ -1,0 +1,353 @@
+SMART CUCINE - ELENCO COMPLETO DEI MEDIA
+Estratto da https://www.smartcucine.it/wp-json/wp/v2/media il 16/11/2026
+Circa 500 file in media library. Base path: https://www.smartcucine.it/wp-content/uploads/
+
+Per scaricarli in blocco (da una macchina con accesso a internet):
+  wget -i media-urls.txt -P ./immagini-smartcucine/
+Oppure solo le immagini reali del negozio: usare la sezione A.
+
+================================================================
+SEZIONE A - FOTO PRODOTTO E CAMPIONI FINITURE (contenuto reale)
+================================================================
+
+--- NALA ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-nala-anta-rovere-pietra-637x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-nala-anta-rovere-savana-643x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-nala-anta-rovere-terra-653x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-nala-anta-rovere-bosco-647x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/nala2-e1539084333323.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Nala.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/1.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/2.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/3.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/4.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/5.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/6.jpg
+
+--- MATRIX ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/01-cucina-moderna-matrix-1920x810.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/modern-kitchen-matrix-06-1147x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/modern-kitchen-matrix-11.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/modern-kitchen-matrix-18-1147x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/modern-kitchen-matrix-22-1024x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/modern-kitchen-matrix-30-1147x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/matrix.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Matrix.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-bianco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-naturale.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/noce-canaletto.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-smoky.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-grigio.jpg
+
+--- ZEN ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/1cucina-moderna-zen-noce-chiaro-corda-opaco-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-zen-con-tavolo-tecno-rettangolare-allungabile-683x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-zen-cappa-elica-682x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-zen-elementi-a-giorno-autoportanti-682x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-zen-piano-cottura-683x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-zen-sgabello-in-acciaio-683x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/zen.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Zen.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/perla-cemento.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/argento-cemento.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/lavagna-cemento.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/noce-bianco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/noce-chiaro.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/noce-scuro.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/seta-bianco-opaco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/corda-opaco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/fango-opaco.jpg
+
+--- RIVER ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/1cucina-moderna-river-rovere-juta-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-river-particolare-cestello.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-river-particolare-dispensa.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-river-ottimizzazione-spazi.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-river-rover-juta.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-river-anta-a-telaio-in-melaminico.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/River.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/River.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/frassino-ghiaccio-bis.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/frassino-tabacco-bis.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-ghiaia-bis.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-cocco-bis.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-juta-bis.jpg
+
+--- EGO ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-ego-frassino-ghiaccio-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/06-cucina-moderna-ego-frassino-tabacco-768x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/12-cucina-moderna-ego-particolare-composizione-721x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/27-cucina-moderna-ego-rovere-cocco-768x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/10-cucina-moderna-ego-piano-lavoro-683x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/33-cucina-moderna-ego-particolare-piano-cottura-1024x683.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Ego.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/frassino-ghiaccio.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/frassino-tabacco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-ghiaia.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-cocco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/rovere-juta.jpg
+
+--- LUNA ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/02bis-cucina-moderna-bianco-luna-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-luna-penisola-con-tavolo-768x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-luna-cassetti-estraibili-683x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-luna-spazi-ottimizzati-768x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-luna-miele-768x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-luna-living-1024x683.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Luna.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/anta-bianco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/anta-ghiaccio.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/anta-grigio.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/anta-miele.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/miele-profilo.jpg
+
+--- GAIA 22 ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-gaia-caribe-bianco-lucido-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/03-cucina-moderna-gaia-nero_bianco-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-gaia-accessori-1024x768-e1540206627455.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-gaia-organizzazione-degli-spazi-768x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-gaia-elementi-a-giorno-683x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/06-modern-kitchen-gaia-718x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Gaia.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_rovere-nocciola.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_rovere-bianco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_nero.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_piombo.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_petrolio.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_bordeaux.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_rosso.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_grigio-polvere.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_sabbia.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_tortora.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_bianco-lucido.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_nero-opaco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_grafite-opaco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/oceano_nocciola-opaco.jpg
+
+--- STRATOS ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-stratos-grainwood-fango-glass-tortora-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-stratos-grainwood-fango-glass-tortora2-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/cucina-moderna-stratos-angolo-cottura-1024x683.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/stratos_02_particolare-penisola-in-glass-visone-768x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/stratos_01_particolare-kit-interni-cassetti-e-cestoni-683x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/stratos_01_aleve-luna_glass-grigio_particolare-colonna-dispensa-con-ripiani-interni-estraibili-683x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Stratos.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/aleve_terra.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/aleve_pietra_chiara.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/aleve_naturale.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/aleve_luna.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/aleve_fumo.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/aleve_cenere.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/grainwood-root-tabacco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/grainwood-olmo-corteccia.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/grainwood-larice-corda.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/grainwood-larice-argento.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/grainwood_castagno.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/grainwood_fango.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/grainwood_sabbia.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/matt_piombo.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/matt_neve.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/matt_caffe.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/matt_argilla.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_piombo-lucido.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_marrone.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_verde-oliva.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_salvia.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_pesca.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_panna.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_bordeaux.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_rosso.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_blu_capri.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_azzurro.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_nero.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_grigio.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_visone.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_tortora.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_madreperla.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/glass_bianco.jpg
+
+--- OLIMPIA (classica) ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/01bis-cucina-elegante-classica-olimpia-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/02-cucina-elegante-classica-olimpia-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/02-classic-kitchen-olimpia-768x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/12-classic-kitchen-olimpia-683x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/14-classic-kitchen-olimpia-1024x684.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/17-classic-kitchen-olimpia-1024x768.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Olimpia.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/olimpia_bianco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/olimpia_beige.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/olimpia_ecru.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/olimpia-noce.jpg
+
+--- AISHA (classica) ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/02-classic-kitchen-aisha-1024x576.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/03-classic-kitchen-aisha-1024x576.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/04-classic-kitchen-aisha-1024x576.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/aisha.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/frassino-bianco.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/frassino-tortora.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/frassino-rovere-gessato.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/frassino-grigio.jpg
+
+--- GIORGIA (classica) ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/01-cucina-elegante-classica-giorgia-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/02-cucina-elegante-classica-giorgia-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/03-cucina-elegante-classica-giorgia-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/01-cucina-classica-giorgia-685x1024.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/02-cucina-classica-giorgia-1024x686.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/03-cucina-classica-giorgia-1024x686.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Giorgia.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/essenza-ciliegio.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/vetrina-essenza-ciliegio.jpg
+
+--- GENERICHE CUCINE CLASSICHE ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/00-cucina-elegante-classica-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/03-cucina-elegante-classica-1024x432.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/05-cucina-elegante-classica-1024x432.jpg
+
+--- ALTRI MODELLI (non più in catalogo sul sito) ---
+https://www.smartcucine.it/wp-content/uploads/2018/09/Mod-KIRA.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Mod-KIRA-3.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/14.KIRA_150480.jpg
+https://www.smartcucine.it/wp-content/uploads/2020/09/KIRA-€-1850.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Kyra-e1538066499227.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Cucina-ZOE.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Cucina-ZOE-1.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/cucina-moderna-brio-abete-naturale-abete-terra.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/04-cucina-moderna-brio-bianco-luna.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Cucina-MODERNA-sistema-gola.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Cucina-H-264.jpg
+https://www.smartcucine.it/wp-content/uploads/2020/09/NEW-KELLY-VISTA-IN-TV.jpg
+https://www.smartcucine.it/wp-content/uploads/2020/09/CLOE-VISTA-IN-TV.jpg
+https://www.smartcucine.it/wp-content/uploads/2020/09/1-scaled-e1605511481695.jpg
+https://www.smartcucine.it/wp-content/uploads/2020/09/1-scaled-e1605511481695-1.jpg
+
+--- ALTRI ARREDI GIESSEGI (camere, armadi, soggiorni, camerette) ---
+https://www.smartcucine.it/wp-content/uploads/2018/10/Camera-matrimoniale-GIESSEGI.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Camera-matrimoniale-GIESSEGI-1.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Cabina-Armadio-GIESSEGI.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Cameretta-GIESSEGI.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Cameretta-SMILE-GIESSEGI.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Cameretta-SMILE-GIESSEGI-1.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Parete-libreria-GIESSEGI.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Parete-libreria-GIESSEGI-1.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Soggiorno-GIESSEGI.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Soggiorno-con-scrivania-GIESSEGI.jpg
+https://www.smartcucine.it/wp-content/uploads/2022/05/camera-giessegi.jpg
+https://www.smartcucine.it/wp-content/uploads/2022/05/ARMADI-SU-MISURA.png
+
+================================================================
+SEZIONE B - MATERIALI PROMOZIONALI E VOLANTINI
+================================================================
+https://www.smartcucine.it/wp-content/uploads/2025/09/02b1dc2a-6cf7-4893-8205-143d6afec65f.jpeg
+https://www.smartcucine.it/wp-content/uploads/2025/09/2a8c314a-5ae1-4c22-b9fc-4938728270a5.jpeg
+https://www.smartcucine.it/wp-content/uploads/2025/04/Schermata-2025-04-08-alle-16.49.11-e1744123991219.png
+https://www.smartcucine.it/wp-content/uploads/2025/04/Schermata-2025-04-08-alle-16.37.54-e1744123359116.png
+https://www.smartcucine.it/wp-content/uploads/2018/10/Schermata-2025-04-08-alle-16.27.23-e1744122754429.png
+https://www.smartcucine.it/wp-content/uploads/2018/10/Schermata-2025-04-08-alle-16.19.05-e1744122120166.png
+https://www.smartcucine.it/wp-content/uploads/2022/05/Schermata-2025-04-08-alle-16.03.29-e1744121188886.png
+https://www.smartcucine.it/wp-content/uploads/2025/04/Schermata-2025-04-08-alle-15.55.03-e1744120603559.png
+https://www.smartcucine.it/wp-content/uploads/2025/04/promozione-cucina-sandy-e1744120073660.png
+https://www.smartcucine.it/wp-content/uploads/2025/04/Schermata-2025-04-08-alle-15.44.50.png
+https://www.smartcucine.it/wp-content/uploads/2025/04/Schermata-2025-04-08-alle-15.44.50-1.png
+https://www.smartcucine.it/wp-content/uploads/2025/04/promokelly-e1744118777881.png
+https://www.smartcucine.it/wp-content/uploads/2025/04/cucina2.png
+https://www.smartcucine.it/wp-content/uploads/2025/04/CANDY-PROMOZIONE-PRIMAVERA.jpg
+https://www.smartcucine.it/wp-content/uploads/2024/07/PROMO-ASCIUGATRICE-TURI.png
+https://www.smartcucine.it/wp-content/uploads/2023/02/ASCIUGATRICE-OMAGGIO.png
+https://www.smartcucine.it/wp-content/uploads/2023/02/Progetto-senza-titolo.png
+https://www.smartcucine.it/wp-content/uploads/2023/02/ucina-completa-di-elettrodomestici-INDESIT-PIANO-COTTURA-5-FUOCHI-FORNO-MULTIFUNZIONE-LAVASTOVIGLIE-FRIGORIFERO-COMBINATO-280-LITRI-LAVELLO-INOX-1-VASCA-CON-GOC.-1.png
+https://www.smartcucine.it/wp-content/uploads/2022/05/promo-PRIMAVERA-2022JPEG.png
+https://www.smartcucine.it/wp-content/uploads/2022/05/PROMOZIONE-CUCINA-6.png
+https://www.smartcucine.it/wp-content/uploads/2021/10/PROMO-KELLY-SITO-Page-01-Snapshot-03.png
+https://www.smartcucine.it/wp-content/uploads/2020/04/IORESTOACASA-1.png
+https://www.smartcucine.it/wp-content/uploads/2018/09/Promo3.png
+https://www.smartcucine.it/wp-content/uploads/2018/09/promo4.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/promo2.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/promo1.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/pr.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/pr-1.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/pr-2.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/pr-3.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/pr-4.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/cucina.png
+https://www.smartcucine.it/wp-content/uploads/2018/10/PP.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/ti-serve-aiuto-domicilio.png
+https://www.smartcucine.it/wp-content/uploads/2018/09/ti-serve-aiuto-centralino.png
+https://www.smartcucine.it/wp-content/uploads/2018/09/IMG_6931-e1537623727379.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/Striscioni-interno.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/banner.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/09/prova.png
+https://www.smartcucine.it/wp-content/uploads/2018/10/thumb-e1540207145259.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/Thumb-e1540207603961.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/thumb-1-e1540207857894.jpg
+https://www.smartcucine.it/wp-content/uploads/2018/10/thumb-2-e1540207993223.jpg
+
+--- SLIDER HOME (Revolution Slider) ---
+https://www.smartcucine.it/wp-content/uploads/revslider/homelight/wide1.jpg
+https://www.smartcucine.it/wp-content/uploads/revslider/homelight/wide2.jpg
+https://www.smartcucine.it/wp-content/uploads/revslider/homelight/wide3.jpg
+
+================================================================
+SEZIONE C - DOCUMENTI (PDF / DOCX)
+================================================================
+https://www.smartcucine.it/wp-content/uploads/2023/08/vacanze-estive.pdf
+https://www.smartcucine.it/wp-content/uploads/2023/08/vacanze-estive-1.pdf
+https://www.smartcucine.it/wp-content/uploads/2023/08/vacanze-estive-2.pdf
+https://www.smartcucine.it/wp-content/uploads/2021/10/PROMO-KELLY.pdf
+https://www.smartcucine.it/wp-content/uploads/2021/10/PROMO-KELLY-1.pdf
+https://www.smartcucine.it/wp-content/uploads/2020/09/doc1.docx
+https://www.smartcucine.it/wp-content/uploads/2020/04/Gentili-Clienti.docx
+https://www.smartcucine.it/wp-content/uploads/2020/04/Gentili-Clienti-1.docx
+
+================================================================
+SEZIONE D - RESIDUI DEL TEMA (Interiart) - circa 250 file, DA ELIMINARE
+================================================================
+Immagini demo del template originale, caricate tra il 2013 e il 2017, mai usate
+nel sito reale. Occupano spazio sull'hosting e vanno ripulite.
+Si trovano in queste cartelle di /wp-content/uploads/:
+
+  2013/06/   -> 1.jpg ... 12.jpg, 6-1.jpg
+  2015/07/   -> logo.png, avatar.jpg, pf-1..pf-12.jpg, p1_a..p4_b.jpg,
+                pic_1..3.jpg, bg-1..bg-5.jpg, bg-21/31/51.jpg, bg-side-1/11.jpg,
+                team_pic_1..4.jpg (+ _11.._41), wide1..3.jpg, 1.png..8.png,
+                brand-1.png, brand1-1.png, map-marker.png, pic-blog-1..4.jpg,
+                subheader-1..6, interiart5-1.png, Interiart2-1.png,
+                1920x1080-1.png, 1920x1080_79-1.png
+  2015/08/   -> product1-1..product7-1.png, partner-1.png, partner1-1.png,
+                partner2-1.png, pic_1..3.jpg, wide1..3 (+ -1), image_blog-1.png,
+                glplogo.png, subheader-2.jpg
+  2015/10/   -> bg-2/3/7/8/9.jpg, deco_1.png, deco_2.png, logo-border.png,
+                hand-with-phone.png, video-poster.jpg
+  2015/12/   -> logo-Interiart1-1.png, Interiart4-1.png, partner1-1..partner14-1,
+                partner7-1-1..partner10-1-1.png, image-1-1.png, image-2.png,
+                quote1-1.png, 150x150-1.png, 500x400-1.png, 1024x626-1.png,
+                1200x771-1.png, 1920x700-1.png, 1920x1080_fff-1.png
+  2016/02/   -> 1151x541-1.png, 1200x771_service-1.png, 1200x1600-1.png,
+                image-member-1.png
+  2016/03/   -> interiart5-1.png, iPhone1-1.png
+  2016/05/   -> bg-12.jpg, bg-side-4.jpg, wide4..6.jpg (+ -1)
+  2016/06/   -> bg-11.jpg, bg-13.jpg, bg-side-5.jpg, bg-side-6.jpg
+  2016/09/   -> wide1..wide6.jpg
+  2016/10/   -> bg-15..bg-19.jpg, deco_3.png, subheader-5.jpg,
+                Call-1.png, Mail-1.png, My-Location-1.png
+  2016/11/   -> bg-20.jpg, bg-pic-1.jpg, misc_1.png, p1_b.jpg, p3_b.jpg,
+                p4_a.jpg, download111-1.jpg, pexels-photo-165637-1.jpg,
+                Draw-Compass-1-1.png
+  2017/03/   -> bg-18.jpg, bg-23.jpg, bg-24.jpg, ttd.png,
+                profile-pic.jpg, profile-pic-2.jpg, profile-pic-3.jpg
+  2017/05/   -> bg-6.jpg, wide1..wide6.jpg
+  2017/09/   -> 3-1.jpg, breather-181282-1.jpg, Draw-Compass-1-1.png,
+                Rectangle-38-copy-2-1.png,
+                ATDesign-nordic-style-living-in-monochrome-1.jpg
+  2017/11/   -> partnerxml-1-1.png, partnerxml-2.png, partnerxml1-1.png,
+                partnerxml2-1.png, partnerxml3-1.png, Image1-1.png,
+                Draw-Compass-1-1.png, 6780843981_afa3d5fec3_o-1.jpg,
+                pexels-photo-2716181-1.jpg, 5388652886_e704c7e5fc_o1-1.jpg
+  2018/01/   -> pexels-photo-275484-1.png, pexels-photo-271795-1.jpg,
+                dan-gold-220226-1.jpg, 5388053637_3d822c8e47_o-1.jpg,
+                interiart52-1.png, Draw-Compass-1-1.png
+  revslider/ -> slide-home-11, slide-home-32, slide-home-71, slide-home-81,
+                slide-home-91, slide-home-101, slider-home3, slider-home4
+                (ciascuna con 1920x1080.png, 1920x1080_79.png,
+                 Draw-Compass-1.png)

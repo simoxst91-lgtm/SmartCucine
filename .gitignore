@@ -1,0 +1,5 @@
+immagini-originali/
+*.zip
+Thumbs.db
+.DS_Store
+desktop.ini

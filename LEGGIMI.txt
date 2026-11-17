@@ -1,0 +1,107 @@
+SMART CUCINE — NUOVO SITO
+=========================
+Sito statico, 21 pagine HTML. Nessun CMS, nessun database, nessun plugin.
+Si pubblica caricando la cartella su qualsiasi hosting, o su GitHub Pages.
+
+PRIMA DI ANDARE ONLINE — 2 cose da fare
+---------------------------------------
+1) MODULI DI CONTATTO
+   In contatti.html e preventivo.html cerca:
+       https://formspree.io/f/XXXXXXXX
+   e sostituiscilo con il tuo endpoint Formspree reale.
+   Finché non lo fai, i moduli non inviano nulla.
+
+2) IMMAGINI  ***IMPORTANTE, DA FARE PRIMA DI ANDARE ONLINE***
+   Adesso le foto vengono caricate dal vecchio sito
+   (www.smartcucine.it/wp-content/uploads/...).
+   Il giorno in cui il dominio puntera' a questo sito nuovo, quei file
+   non esisteranno piu' e TUTTE LE FOTO SPARIRANNO.
+
+   Per risolvere, una volta sola, dal terminale nella cartella del sito:
+
+       python3 prepara-immagini.py      (Mac e Linux)
+       python prepara-immagini.py       (Windows)
+
+   Lo script scarica le 172 immagini dentro  immagini/  e riscrive da
+   solo tutti i file del sito perche' le usino. Serve solo Python,
+   nessuna libreria. Ci mette qualche minuto.
+
+   Dopo averlo lanciato il sito e' completo e non dipende piu' da nulla.
+   Consigliato: convertire poi le immagini in WebP, pesano molto meno.
+
+STRUTTURA
+---------
+index.html             Home
+cucine-moderne.html    Elenco 8 modelli moderni
+cucine-classiche.html  Elenco 3 modelli classici
+cucina-<nome>.html     11 schede modello (testi, galleria, finiture)
+promozioni.html        7 promozioni con tabella prezzi e dettaglio
+servizi.html           6 servizi + il percorso dal rilievo alla consegna
+chi-siamo.html         Presentazione azienda
+contatti.html          Dati, orari, mappa, modulo
+preventivo.html        Modulo prenotazione appuntamento
+privacy.html           Informativa GDPR
+cookie-policy.html     Informativa cookie
+sitemap.xml            Da inviare a Google Search Console
+robots.txt
+
+COSA È STATO RISOLTO RISPETTO AL VECCHIO SITO
+---------------------------------------------
+- Privacy e cookie policy presenti, consenso obbligatorio nei moduli
+- URL parlanti e coerenti su tutte le pagine
+- Nessun link rotto, nessun 404
+- Ogni pagina ha title e meta description propri
+- Dati strutturati schema.org FurnitureStore (orari, indirizzo, zone servite)
+- Testi reali indicizzabili, con riferimenti a Como, Cantù, Fino Mornasco, Brianza
+- Didascalie delle gallerie corrette
+- Nessun WordPress, nessun plugin: niente da aggiornare e niente da bucare
+
+
+================================================================
+NEGOZIO E PANNELLO DI GESTIONE
+================================================================
+
+PAGINE
+  negozio.html    catalogo con filtri e ordinamento
+  prodotto.html   scheda singola (prodotto.html?id=...)
+  carrello.html   carrello e pagamento
+  gestione.html   PANNELLO DI GESTIONE — non e' nel menu del sito
+
+ACCESSO AL PANNELLO
+  Indirizzo:  iltuosito.it/gestione.html
+  Password:   smartcucine2026     <-- CAMBIALA
+
+  Per cambiarla apri gestione.html e cerca questa riga:
+      window.ADMIN_PW="smartcucine2026";
+
+  ATTENZIONE, leggi bene: questa password sta dentro il codice della
+  pagina, quindi chiunque apra il sorgente puo' leggerla. Tiene fuori
+  i curiosi, NON e' una protezione vera. Se sul pannello ci finiscono
+  dati di clienti o ordini, serve una password a livello di hosting
+  (.htpasswd su Apache, oppure Netlify/Cloudflare Access).
+  Conviene anche rinominare gestione.html in qualcosa di non
+  indovinabile, es. gestione-7k2m9.html.
+
+COME SI AGGIORNA IL CATALOGO
+  1. Entri in gestione.html e modifichi i prodotti
+  2. Premi "Esporta catalogo": scarica il file catalogo.js
+  3. Carichi quel file sull'hosting al posto di quello esistente
+  Finche' non fai il punto 3, le modifiche le vedi solo tu, sul tuo
+  browser. Questo perche' il sito e' statico e non ha un database.
+
+PAGAMENTI
+  PayPal  gia' funzionante. Il carrello invia tutti gli articoli a
+          PayPal. Il conto usato e' quello in "business": ora c'e'
+          info@smartcucine.it, va messo il conto PayPal vero.
+
+  Stripe  per prodotto. Dal cruscotto Stripe crei un "Link di
+          pagamento" per ogni articolo, copi l'indirizzo
+          (https://buy.stripe.com/...) e lo incolli nel campo Stripe
+          del prodotto nel pannello. Comparira' il pulsante
+          "Paga subito con carta" sulla scheda.
+          Stripe per il carrello intero non e' possibile senza un
+          server: per ordini multipli resta PayPal.
+
+PRODOTTI GIA' CARICATI: 18
+  7 cucine in promozione, con prezzo e acquistabili
+  11 modelli, a preventivo (prezzo 0 = mostra "Su preventivo")
