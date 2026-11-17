@@ -20,7 +20,7 @@ window.CATALOGO_SEED = [
    "Piano cottura da cm 60",
    "Lavastoviglie integrata totale"
   ],
-  "immagine": "immagini/2018/10/Schermata-2025-04-08-alle-16.19.05-e1744122120166.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/10/Schermata-2025-04-08-alle-16.19.05-e1744122120166.png",
   "attivo": true,
   "evidenza": true,
   "stripe": "",
@@ -43,7 +43,7 @@ window.CATALOGO_SEED = [
    "Piano cottura a gas da incasso cm 75 con 5 fuochi",
    "Lavastoviglie integrata totale"
   ],
-  "immagine": "immagini/2025/04/Schermata-2025-04-08-alle-16.49.11-e1744123991219.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2025/04/Schermata-2025-04-08-alle-16.49.11-e1744123991219.png",
   "attivo": true,
   "evidenza": true,
   "stripe": "",
@@ -67,7 +67,7 @@ window.CATALOGO_SEED = [
    "Piano cottura a gas da incasso cm 75 con 5 fuochi",
    "Lavastoviglie integrata"
   ],
-  "immagine": "immagini/2022/05/Schermata-2025-04-08-alle-16.03.29-e1744121188886.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2022/05/Schermata-2025-04-08-alle-16.03.29-e1744121188886.png",
   "attivo": true,
   "evidenza": true,
   "stripe": "",
@@ -91,7 +91,7 @@ window.CATALOGO_SEED = [
    "Lavastoviglie integrata totale",
    "Cappa d'arredo"
   ],
-  "immagine": "immagini/2025/04/promozione-cucina-sandy-e1744120073660.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2025/04/promozione-cucina-sandy-e1744120073660.png",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -114,7 +114,7 @@ window.CATALOGO_SEED = [
    "Piano cottura a gas da incasso cm 75 con 5 fuochi",
    "Lavastoviglie integrata"
   ],
-  "immagine": "immagini/2021/10/PROMO-KELLY-SITO-Page-01-Snapshot-03.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2021/10/PROMO-KELLY-SITO-Page-01-Snapshot-03.png",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -138,7 +138,7 @@ window.CATALOGO_SEED = [
    "Piano cottura a gas da incasso cm 75 con 5 fuochi",
    "Lavastoviglie integrata totale"
   ],
-  "immagine": "immagini/2018/10/Schermata-2025-04-08-alle-16.27.23-e1744122754429.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/10/Schermata-2025-04-08-alle-16.27.23-e1744122754429.png",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -161,7 +161,7 @@ window.CATALOGO_SEED = [
    "Piano cottura a gas da incasso cm 75 con 5 fuochi",
    "Lavastoviglie integrata totale"
   ],
-  "immagine": "immagini/2025/04/Schermata-2025-04-08-alle-16.37.54-e1744123359116.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2025/04/Schermata-2025-04-08-alle-16.37.54-e1744123359116.png",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -184,7 +184,7 @@ window.CATALOGO_SEED = [
    "Rovere Savana",
    "Rovere Pietra"
   ],
-  "immagine": "immagini/2018/09/Nala.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/Nala.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -208,7 +208,7 @@ window.CATALOGO_SEED = [
    "Rovere Smoky",
    "Rovere Grigio"
   ],
-  "immagine": "immagini/2018/09/Matrix.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/Matrix.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -236,7 +236,7 @@ window.CATALOGO_SEED = [
    "Argento Cemento",
    "Perla Cemento"
   ],
-  "immagine": "immagini/2018/09/Zen.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/Zen.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -260,7 +260,7 @@ window.CATALOGO_SEED = [
    "Frassino Tabacco",
    "Frassino Ghiaccio"
   ],
-  "immagine": "immagini/2018/09/River.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/River.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -284,7 +284,7 @@ window.CATALOGO_SEED = [
    "Frassino Tabacco",
    "Frassino Ghiaccio"
   ],
-  "immagine": "immagini/2018/09/Ego.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/Ego.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -308,7 +308,7 @@ window.CATALOGO_SEED = [
    "Anta Miele",
    "Miele Profilo"
   ],
-  "immagine": "immagini/2018/09/Luna.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/Luna.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -341,7 +341,7 @@ window.CATALOGO_SEED = [
    "Grafite Opaco",
    "Nocciola Opaco"
   ],
-  "immagine": "immagini/2018/09/Gaia.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/Gaia.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -393,7 +393,7 @@ window.CATALOGO_SEED = [
    "Madreperla",
    "Bianco"
   ],
-  "immagine": "immagini/2018/09/Stratos.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/Stratos.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -416,7 +416,7 @@ window.CATALOGO_SEED = [
    "Olimpia Ecru",
    "Olimpia Noce"
   ],
-  "immagine": "immagini/2018/09/Olimpia.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/Olimpia.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -439,7 +439,7 @@ window.CATALOGO_SEED = [
    "Frassino Rovere Gessato",
    "Frassino Grigio"
   ],
-  "immagine": "immagini/2018/09/aisha.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/aisha.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
@@ -460,7 +460,7 @@ window.CATALOGO_SEED = [
    "Essenza Ciliegio",
    "Vetrina Essenza Ciliegio"
   ],
-  "immagine": "immagini/2018/09/Giorgia.webp",
+  "immagine": "https://www.smartcucine.it/wp-content/uploads/2018/09/Giorgia.jpg",
   "attivo": true,
   "evidenza": false,
   "stripe": "",
